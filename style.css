@@ -1,6 +1,6 @@
 body{
     background-color: var(--main-bg-color);
-    font-family:Helvetica, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     /* font-family: 'Inter', sans-serif; */
     font-weight: 100;
   
@@ -203,12 +203,15 @@ body{
   outline: none;
   font-size: 36px;
   padding-left: 100px;
+  font-family: 'Times New Roman', Times, serif;
+
   
 
 }
 
 .button{
   font-weight: 100 !important;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .active, .collapsible:hover {
